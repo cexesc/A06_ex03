@@ -25,7 +25,6 @@ internal class Program
         Console.WriteLine(string.Join(", ", multiples));
     }
 
-
-    int i = 0;
+    // hola
 }
 
