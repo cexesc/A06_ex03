@@ -24,5 +24,8 @@ internal class Program
         Console.WriteLine("Múltiples de 7 menors que " + valor + ":");
         Console.WriteLine(string.Join(", ", multiples));
     }
+
+    // hola
+    // això és un comentari de prova
 }
 

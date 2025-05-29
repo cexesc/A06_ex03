@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Codi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97191748f4b0d7e46bee2f30a07f0010d0017a11")]
 [assembly: System.Reflection.AssemblyProductAttribute("Codi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Codi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
